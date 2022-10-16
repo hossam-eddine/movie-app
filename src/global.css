@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Silkscreen:wght@400;700&display=swap');
+
+body{
+    background-color: #0f0e17;
+    
+    font-family: 'Silkscreen', cursive;
+}
+
+
+section 
+{
+    margin: 5%;
+}
+
+
+h2,h1
+    {
+        color: #fffffe;
+       
+    }
+    p,label
+    {
+        color: #a7a9be;
+    }
+
+    .container{
+        width:90%;
+        margin: 10px auto ;
+    }
+
+     a {
+        
+        color: #ff8906;
+    }
